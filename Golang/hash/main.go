@@ -63,7 +63,7 @@ func main() {
 	t := "Wossd"
 	brt := isIsomorphicByBeruteForcer(s, t)
 
-	nbrt:=isIsomorpichByHashMap(s, t)
+	nbrt := isIsomorpichByHashMap(s, t)
 	fmt.Println(brt)
 	fmt.Println(nbrt)
 
